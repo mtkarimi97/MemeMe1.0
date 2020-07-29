@@ -68,5 +68,7 @@ Privacy - Camera Usage Description</key>
 	<string>Camera used so user can take new pictures and create memes from them.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Photo library accessed so user can apply text and create memes from those images.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Photo library accessed so application can save meme image</string>
 </dict>
 </plist>
